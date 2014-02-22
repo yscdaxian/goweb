@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="updater.php" server="172.17.1.26//var/www/html/" local="130477456040000000" remote="130477456040000000" />
+<file name="upgrade-postgres.php" server="172.17.1.26//var/www/html/" local="130477456040000000" remote="130477456040000000" />
+<file name="upgrade-mssql.php" server="172.17.1.26//var/www/html/" local="130477456040000000" remote="130477456040000000" />
+<file name="upgrade-mssqlnative.php" server="172.17.1.26//var/www/html/" local="130477456040000000" remote="130477456040000000" />
+<file name="upgrade-mysql.php" server="172.17.1.26//var/www/html/" local="130477456040000000" remote="130477456040000000" />
+<file name="upgrade-all.php" server="172.17.1.26//var/www/html/" local="130477456040000000" remote="130477456040000000" />
+</dwsync>
